@@ -1,3 +1,4 @@
+
 <p align="center">
 
 </p>
@@ -6,7 +7,7 @@ Este projeto faz parte do Challenge ONE da Alura e tem como propósito aplicar, 
 
 <p align="right">
 <img width="110" height="110" src="https://github.com/user-attachments/assets/4e4787d5-2d65-4b8a-a4ac-3f895f41b2e7" /> <br>
-<img src="https://img.shields.io/badge/status-finalizado-blue"> <img src="https://img.shields.io/badge/license-MIT-green"> <img src="https://img.shields.io/github/stars/miaeo?style=social">
+<img src="https://img.shields.io/badge/status-finalizado-blue">
 </p>
 
 ---
